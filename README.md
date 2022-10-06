@@ -1,1 +1,1 @@
-script the display the content of the current working directory
+This repository contain answer to shell permission task
